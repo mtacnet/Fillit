@@ -13,6 +13,8 @@ Toutes les fonctions présentes ont été prototypées dans le fichier "fillit.h
 Pour finir, l'ensemble du projet est compilable via le Makefile. Les règles a dispositions sont les suivantes:
 clean, fclean, re
 
+Le programme n'est pas parfait mais il voué à etre amélioré au fil du temps.
+
 L'utilisation du programme est décrite dans le PDF mis à disposition.
 
 ------------------------------------------------------------------------------------------------------------------------------
