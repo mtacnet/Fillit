@@ -18,4 +18,4 @@ Le programme n'est pas parfait mais il est voué à etre amélioré au fil du te
 L'utilisation du programme est décrite dans le PDF mis à disposition dans le repo.
 
 ------------------------------------------------------------------------------------------------------------------------------
-mickaeltac@student.42.fr
+mtacnet@student.42.fr
